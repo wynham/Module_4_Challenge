@@ -20,6 +20,8 @@ import numpy as np
 
 This image shows the Tiger Global 60 Day Rolling Beta, which is why I selected it as the best portfolio option:
 
+![tiger_global_rollingbeta.png](tiger_global_rollingbeta.png)
+
 ---
 
 ## Contributors
